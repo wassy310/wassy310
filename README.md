@@ -17,7 +17,7 @@
   <a href="http://qiita.com/wassy310">
     <img height="20" src="https://qiita-badge.apiapi.app/s/wassy310/posts.svg" />
   </a>
-  <//qiita.com/yutkat">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
+  <//qiita.com/wassy310">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/wassy310/contributions.svg" />
   </a>
 </p>
