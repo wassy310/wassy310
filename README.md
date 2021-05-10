@@ -1,7 +1,3 @@
-わっしーです
-
-手話の翻訳アプリの開発をしています
-
 <p align="left"> 
   <a href="https://github.com/wassy310/wassy310/">
     <img src="https://komarev.com/ghpvc/?username=wassy310" alt="wassy310" />
