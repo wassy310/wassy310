@@ -1,5 +1,5 @@
-わっしーです、よろしくお願いします
-なんか手話の翻訳アプリを開発してるらしいです
+わっしーです、よろしくお願いします  
+手話の翻訳アプリを開発してるらしいです
 
 <!--
 **wassy310/wassy310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
