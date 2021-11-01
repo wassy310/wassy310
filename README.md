@@ -20,8 +20,7 @@ I am steadily developing a sign language recognition system that will be impleme
 </p>
 
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=wassy310&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/wassy310/)
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassy310&layout=compact&theme=tokyonight)](https://github.com/wassy310/)
 
-[![github-chart](https://github-chart.vercel.app/api?user=wassy310)](https://github.com/wassy310/github-chart)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassy310&layout=compact&theme=tokyonight)](https://github.com/wassy310/)
 
 Department of Information and Communication Systems Engineering at National Institute of Technology, Okinawa College
