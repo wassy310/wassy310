@@ -1,6 +1,4 @@
-勉強しながら地道に手話認識システムを開発してます(https://github.com/wassy310/handgesture_test)
-
-Nreallightに実装予定です
+地道にNreallightに実装予定の手話認識システムを開発してます(https://github.com/wassy310/handgesture_test)
 
 <p align="left"> 
   <a href="https://github.com/wassy310/wassy310/">
