@@ -24,5 +24,3 @@
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassy310&layout=compact&theme=tokyonight)](https://github.com/wassy310/)
 
 Department of Information and Communication Systems Engineering at National Institute of Technology, Okinawa College
-
-![Counter](https://profile-counter.glitch.me/wassy310/count.svg)
