@@ -22,3 +22,5 @@
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=wassy310&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/wassy310/)
 
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassy310&layout=compact&theme=tokyonight)](https://github.com/wassy310/)
+
+沖縄工業高等専門学校 情報通信システム工学科
