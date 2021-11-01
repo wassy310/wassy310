@@ -23,4 +23,6 @@ I am steadily developing a sign language recognition system that will be impleme
 
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassy310&layout=compact&theme=tokyonight)](https://github.com/wassy310/)
 
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wassy310&theme=dracula
+
 Department of Information and Communication Systems Engineering at National Institute of Technology, Okinawa College
