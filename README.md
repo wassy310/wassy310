@@ -18,3 +18,7 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/wassy310/contributions.svg" />
   </a>
 </p>
+
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=wassy310&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/wassy310/)
+
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassy310&layout=compact&theme=tokyonight)](https://github.com/wassy310/)
