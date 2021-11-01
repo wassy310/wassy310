@@ -1,4 +1,4 @@
-**Thank you for visiting my page!**
+<h1>**Thank you for visiting my page!**</h1>
 
 地道にNreallightに実装予定の手話認識システムを開発してます(https://github.com/wassy310/handgesture_test)
 
