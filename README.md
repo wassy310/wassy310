@@ -1,5 +1,7 @@
 地道にNreallightに実装予定の手話認識システムを開発してます(https://github.com/wassy310/handgesture_test)
 
+I am steadily developing a sign language recognition system that will be implemented in Nreallight(https://github.com/wassy310/handgesture_test)
+
 <p align="left"> 
   <a href="https://github.com/wassy310/wassy310/">
     <img src="https://komarev.com/ghpvc/?username=wassy310" alt="wassy310" />
