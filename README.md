@@ -1,8 +1,8 @@
 # Thank you for visiting my page!
 
-Nreallightに実装予定の手話認識アプリを地道に開発してます(https://github.com/wassy310/handgesture_test)
+手話翻訳アプリを地道に開発してます(https://github.com/wassy310/handgesture_test)
 
-I am steadily developing a sign language recognition system that will be implemented in Nreallight(https://github.com/wassy310/handgesture_test)
+I am steadily developing a sign language transration system(https://github.com/wassy310/handgesture_test)
 
 <p align="left"> 
   <a href="https://github.com/wassy310/wassy310/">
