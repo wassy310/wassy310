@@ -9,11 +9,7 @@ I am steadily developing a sign language transration system(https://github.com/w
     <img src="https://komarev.com/ghpvc/?username=wassy310" alt="wassy310" />
   </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassy310&theme=dark" />
-  </a>
-  
-  <a href="http://twitter.com/wassi_310">
+  <a href="http://twitter.com/waaaa5563">
     <img height="20" src="https://img.shields.io/twitter/follow/wassi_310?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/wassy310">
