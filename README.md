@@ -1,9 +1,5 @@
 # Thank you for visiting my page!
 
-手話翻訳アプリを地道に開発してます(https://github.com/wassy310/handgesture_test)
-
-I am steadily developing a sign language transration system(https://github.com/wassy310/handgesture_test)
-
 <p align="left"> 
   <a href="https://github.com/wassy310/wassy310/">
     <img src="https://komarev.com/ghpvc/?username=wassy310" alt="wassy310" />
