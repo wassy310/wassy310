@@ -11,9 +11,6 @@
   <a href="https://github.com/wassy310">
     <img height="20" src="https://img.shields.io/github/followers/wassy310?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://www.qiita.com/wassy310">
-    <img height="20" src="https://img.shields.io/qiita/followers/wassy310?label=follow&logo=qiita&style=flat" />
-  </a>
   <a href="https://www.reddit.com/user/wassy310">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/wassy310?label=Reddit&logo=reddit&style=flat" />
   </a>
