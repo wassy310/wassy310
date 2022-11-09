@@ -5,8 +5,8 @@
     <img src="https://komarev.com/ghpvc/?username=wassy310" alt="wassy310" />
   </a>
   
-  <a href="http://twitter.com/waaaa5563">
-    <img height="20" src="https://img.shields.io/twitter/follow/wassi_310?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/waaaa5267">
+    <img height="20" src="https://img.shields.io/twitter/follow/waaaa5267?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/wassy310">
     <img height="20" src="https://img.shields.io/github/followers/wassy310?label=follow&logo=github&style=flat" />
