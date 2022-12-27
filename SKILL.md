@@ -13,3 +13,9 @@
 - Java
 - Kotlin
 - Rust
+
+## Others
+### Good at
+- Image, Video processing
+- Deep learning
+- Sensor control
