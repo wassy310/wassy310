@@ -2,7 +2,7 @@
 ## Languages
 - first - Japanese
 - second - English (Amer.)
-- others - Chinese, Russian (Need a translator)
+- others - Chinese, Russian (Need a translator), Sign language
 
 ## Programming languages
 ### used to
