@@ -8,4 +8,7 @@
 ## Awards
 [see here](https://github.com/wassy310/wassy310/blob/main/AWARDS.md)
 
+## Belongs
 Department of Information and Communication Systems Engineering at National Institute of Technology, Okinawa College
+
+Robot Production Committee "Muso-jin", Control group
