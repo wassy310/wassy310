@@ -5,10 +5,6 @@
 ## Skills
 [see here](https://github.com/wassy310/wassy310/blob/main/SKILL.md)
 
-## Editors
-- Visual Studio Code
-- Android Studio
-
 ## Awards
 [see here](https://github.com/wassy310/wassy310/blob/main/AWARDS.md)
 
