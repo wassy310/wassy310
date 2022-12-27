@@ -3,13 +3,7 @@
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wassy310&layout=compact&theme=tokyonight)](https://github.com/wassy310/)
 
 ## skills
-### Languages
-- C
-- C++
-- Python
-- Java
-- Kotlin(beginner)
-- Rust(beginner)
+[see here](https://github.com/wassy310/wassy310/blob/main/SKILL.md)
 
 ## Editors
 - Visual Studio Code
