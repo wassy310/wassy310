@@ -10,5 +10,6 @@
 - Android Studio
 
 ## Awards
+[see here](https://github.com/wassy310/wassy310/blob/main/AWARDS.md)
 
 Department of Information and Communication Systems Engineering at National Institute of Technology, Okinawa College
