@@ -13,5 +13,5 @@
 - Honorable Mention Award
 
 ## [Kosen Robocon 2022 - District Conference](https://official-robocon.com/kosen/)
-### Tyura-Kaigun (Beautiful-Navy)
+### Tyura-Kaigun
 - Special Prize - Tokyo Electron Ltd.
