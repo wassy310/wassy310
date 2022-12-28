@@ -13,6 +13,8 @@
 - Java
 - Kotlin
 - Rust
+- Dart
+- Flutter
 
 ## Others
 ### Good at
