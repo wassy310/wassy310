@@ -15,6 +15,8 @@
 - Rust
 - Dart
 - Flutter
+### not used for a long time
+- JavaScript
 
 ## Others
 ### Good at
