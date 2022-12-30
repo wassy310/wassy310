@@ -10,6 +10,9 @@
 ## Awards
 [Please see here](https://github.com/wassy310/wassy310/blob/main/AWARDS.md)
 
+## Projects
+[Please see here](https://github.com/wassy310/wassy310/blob/main/PROJECT.md)
+
 ## Belongs
 Department of Information and Communication Systems Engineering at National Institute of Technology, Okinawa College
 
