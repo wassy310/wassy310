@@ -19,6 +19,6 @@ Department of Information and Communication Systems Engineering at National Inst
 Robot Production Committee "夢創人(Muso-jin)", Control group
 
 ## Contacts
-Twitter: @waaaa5267
-Instagram: @wa_shi_1322
-Youtube: @wassy4252
+- Twitter: @waaaa5267
+- Instagram: @wa_shi_1322
+- Youtube: @wassy4252
