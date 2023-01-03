@@ -15,3 +15,7 @@
 ## [Kosen Robocon 2022 - District Conference](https://official-robocon.com/kosen/)
 ### Tyura-Kaigun
 - Special Prize - Tokyo Electron Ltd.
+
+## [National College of Technology Deep Learning Contest 2023](https://dcon.ai/2023/)
+### Syuwa-Kobo
+- [Passed the first screening](https://dcon.ai/2023/first-screening-passed/)
