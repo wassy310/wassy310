@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=wassy310)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wassy310&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wassy310&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wassy310&theme=dracula)
