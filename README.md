@@ -24,6 +24,5 @@
   - `MJ`
 
 ## Belongs
-Department of Information and Communication Systems Engineering at National Institute of Technology, Okinawa College
-
-Robot Production Committee "夢創人(Muso-jin)", Control group
+- Department of Information and Communication Systems Engineering at National Institute of Technology, Okinawa College
+- Robot Production Committee "夢創人(Muso-jin)", Control group
