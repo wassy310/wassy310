@@ -14,13 +14,13 @@
 [Please see here](https://github.com/wassy310/wassy310/blob/main/PROJECT.md)
 
 ## For repository search
-- 沖縄高専 学内行事
+- 沖縄高専 学内行事 | NITOC school event
   - `NITOC`
 - 沖縄高専 ロボコン部 部内共有用 | NITOC Robocon, for departmental use only
   - `NITOC_Robocon`
-- 高専ロボコン
+- 高専ロボコン | Kosen Robocon
   - `NHK_Kosen_Robocon`
-- MJロボコン
+- MJロボコン | MJ Robocon
   - `MJ`
 
 ## Belongs
