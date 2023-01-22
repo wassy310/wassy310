@@ -13,6 +13,9 @@
 ## Projects
 [Please see here](https://github.com/wassy310/wassy310/blob/main/PROJECT.md)
 
+## Products
+[Please see here](https://github.com/wassy310/wassy310/blob/main/PRODUCT.md)
+
 ## For repository search
 - 沖縄高専 学内行事 | NITOC school event
   - `NITOC`
