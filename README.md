@@ -16,16 +16,6 @@
 ## Products
 [Please see here](https://github.com/wassy310/wassy310/blob/main/PRODUCT.md)
 
-## For repository search
-- 沖縄高専 学内行事 | NITOC school event
-  - `NITOC`
-- 沖縄高専 ロボコン部 部内共有用 | NITOC Robocon, for departmental use only
-  - `NITOC_Robocon`
-- 高専ロボコン | Kosen Robocon
-  - `NHK_Kosen_Robocon`
-- MJロボコン | MJ Robocon
-  - `MJ`
-
 ## Belongs
 - Department of Information and Communication Systems Engineering at National Institute of Technology, Okinawa College
 - Robot Production Committee "夢創人(Muso-jin)", Control group
