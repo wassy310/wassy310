@@ -10,12 +10,6 @@
 ## Awards
 [Please see here](https://github.com/wassy310/wassy310/blob/main/AWARDS.md)
 
-## Projects
-[Please see here](https://github.com/wassy310/wassy310/blob/main/PROJECT.md)
-
-## Products
-[Please see here](https://github.com/wassy310/wassy310/blob/main/PRODUCT.md)
-
 ## Belongs
 - Department of Information and Communication Systems Engineering at National Institute of Technology, Okinawa College
 - Robot Production Committee "夢創人(Muso-jin)", Control group
