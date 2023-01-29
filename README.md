@@ -14,3 +14,4 @@
 - Department of Information and Communication Systems Engineering at National Institute of Technology, Okinawa College
 - Robot Production Committee "夢創人(Muso-jin)", Control group
 - ROS JAPAN UG
+- Nonprofit corporation Ubuntu - Supporting member
