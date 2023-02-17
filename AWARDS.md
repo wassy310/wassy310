@@ -10,7 +10,7 @@
 
 ## [テクノ愛 2021 | Techno-AI 2021](http://www.khc.or.jp/ology/tecno2021.html)
 ### 聴覚・言語障がい者向け スマートグラス型 次世代コミュニケーションシステムの提案
-- 最終審査 - 奨励賞
+- 奨励賞 - 最終審査
 
 ## [高専ロボコン2022 - 地区大会 | Kosen Robocon 2022 - District Conference](https://official-robocon.com/kosen/)
 ### 美ら海軍
