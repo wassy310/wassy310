@@ -5,7 +5,7 @@
 - others - Chinese, Sign language
 
 ## Main Languages and Tools
-- Langage
+- Language
   - C / C++
   - Python
   - Dart
