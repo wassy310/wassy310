@@ -5,9 +5,9 @@
 
 # Skills
 ## Language
-- Japanese (Native)
-- English (Amer.)
-- Sign Language (JP)
+- 1st: Japanese (Native)
+- 2nd: English (Amer.)
+- 3rd: Sign Language (JP)
 ## Programming Language
 - Python
 - C/C++
