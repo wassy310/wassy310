@@ -18,4 +18,5 @@
 - DaVinci Resolve
 
 Dept.Information and Communication Systems Engineering at NIT-Okinawa College  
+ロボコン-夢創人-  
 社畜 @ JP & SF
