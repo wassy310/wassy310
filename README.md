@@ -11,7 +11,7 @@
 
 ## Programming Language
 ![](https://img.shields.io/badge/Front-HTML,%20JavaScript,%20Dart(Flutter)-darkgreen)
-![](https://img.shields.io/badge/Back-Dart-skyblue)
+![](https://img.shields.io/badge/Back(Mobile%20Dev.)-Dart-skyblue)
 ![](https://img.shields.io/badge/Server-Python(FastAPI)-blue)
 
 # Env.
