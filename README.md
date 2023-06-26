@@ -5,7 +5,7 @@
 
 # Skills
 ## Language
-![](https://img.shields.io/badge/1st-Japanese%20(Native)-red)
+![](https://img.shields.io/badge/1st-Japanese%20(Native)-darkred)
 ![](https://img.shields.io/badge/2nd-Amer.%20English-navy)
 ![](https://img.shields.io/badge/3rd-JP.%20Sign%20Language-blue)
 
