@@ -16,7 +16,8 @@
 
 ## Others
 ![](https://img.shields.io/badge/Design-SolidWorks2019-darkred)
-![](https://img.shields.io/badge/VideoEdit-DaVinci%20Resolve-navy)
+![](https://img.shields.io/badge/VideoEdit-DaVinci%20Resolve-blue)
+![](https://img.shields.io/badge/Board$20production-KiCAD%206.0-navy)
 
 # Env.
 ![](https://img.shields.io/badge/Main-Windows%2010-blue)
