@@ -14,6 +14,10 @@
 ![](https://img.shields.io/badge/Back(Mobile%20Dev.)-Dart-skyblue)
 ![](https://img.shields.io/badge/Server-Python(FastAPI)-blue)
 
+## Others
+![](https://img.shields.io/badge/Design-SolidWorks2019-darkred)
+![](https://img.shields.io/badge/VideoEdit-DaVinci%20Resolve-navy)
+
 # Env.
 ![](https://img.shields.io/badge/Main-Windows%2010-blue)
 ![](https://img.shields.io/badge/Sub-Ubuntu%2022.04-orange)
