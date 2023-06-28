@@ -30,4 +30,4 @@
 
 Dept.Information and Communication Systems Engineering at NIT-Okinawa College  
 ロボコン -夢創人-  
-社畜 @ JP(東北・関東・沖縄) & Amer.(San Fran)
+社畜 @ JP & Amer.
