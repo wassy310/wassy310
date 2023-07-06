@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/2nd-Amer.%20English-navy)
 ![](https://img.shields.io/badge/3rd-JP.%20Sign%20Language-blue)
 
-## Programming Language
+## Programming
 ![](https://img.shields.io/badge/Front-HTML,%20JavaScript,%20Bootstrap,%20Dart(Flutter)-darkgreen)
 ![](https://img.shields.io/badge/Back-Python,%20Java-skyblue)
 ![](https://img.shields.io/badge/Server-Python(FastAPI)-blue)
