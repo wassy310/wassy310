@@ -12,7 +12,7 @@
 ## Programming
 ![](https://img.shields.io/badge/Front-HTML,%20JavaScript,%20Bootstrap,%20Dart(Flutter)-darkgreen)
 ![](https://img.shields.io/badge/Back-Python,%20Java-skyblue)
-![](https://img.shields.io/badge/Server-Python(FastAPI)-blue,%20SQL)
+![](https://img.shields.io/badge/Server-Python(FastAPI),%20SQL-blue)
 
 ## Others
 ![](https://img.shields.io/badge/Design-SolidWorks%202019-darkred)
